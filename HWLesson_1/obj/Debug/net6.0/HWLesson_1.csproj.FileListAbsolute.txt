@@ -1,0 +1,15 @@
+/Users/fedormaks/Desktop/GB_HWC/HWLesson_1/bin/Debug/net6.0/HWLesson_1
+/Users/fedormaks/Desktop/GB_HWC/HWLesson_1/bin/Debug/net6.0/HWLesson_1.deps.json
+/Users/fedormaks/Desktop/GB_HWC/HWLesson_1/bin/Debug/net6.0/HWLesson_1.runtimeconfig.json
+/Users/fedormaks/Desktop/GB_HWC/HWLesson_1/bin/Debug/net6.0/HWLesson_1.dll
+/Users/fedormaks/Desktop/GB_HWC/HWLesson_1/bin/Debug/net6.0/HWLesson_1.pdb
+/Users/fedormaks/Desktop/GB_HWC/HWLesson_1/obj/Debug/net6.0/HWLesson_1.csproj.AssemblyReference.cache
+/Users/fedormaks/Desktop/GB_HWC/HWLesson_1/obj/Debug/net6.0/HWLesson_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fedormaks/Desktop/GB_HWC/HWLesson_1/obj/Debug/net6.0/HWLesson_1.AssemblyInfoInputs.cache
+/Users/fedormaks/Desktop/GB_HWC/HWLesson_1/obj/Debug/net6.0/HWLesson_1.AssemblyInfo.cs
+/Users/fedormaks/Desktop/GB_HWC/HWLesson_1/obj/Debug/net6.0/HWLesson_1.csproj.CoreCompileInputs.cache
+/Users/fedormaks/Desktop/GB_HWC/HWLesson_1/obj/Debug/net6.0/HWLesson_1.dll
+/Users/fedormaks/Desktop/GB_HWC/HWLesson_1/obj/Debug/net6.0/refint/HWLesson_1.dll
+/Users/fedormaks/Desktop/GB_HWC/HWLesson_1/obj/Debug/net6.0/HWLesson_1.pdb
+/Users/fedormaks/Desktop/GB_HWC/HWLesson_1/obj/Debug/net6.0/HWLesson_1.genruntimeconfig.cache
+/Users/fedormaks/Desktop/GB_HWC/HWLesson_1/obj/Debug/net6.0/ref/HWLesson_1.dll
