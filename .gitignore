@@ -1,3 +1,5 @@
 *.csproj
 bin
 obj
+.DS_Store
+.vscode
