@@ -1,7 +1,14 @@
 ﻿// Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.
 
 double PowerAB(int a, int b) {
-    return Math.Pow((a), b);
+
+    int count = 1;
+    int result = 1;
+    while (count <= b){
+        result = a * result;
+        count++;
+    }
+    return result;
 }
 
 Console.WriteLine("Enter two numbers one by one:");
