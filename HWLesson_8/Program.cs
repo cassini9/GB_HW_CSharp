@@ -244,60 +244,6 @@
 
 //Заполните спирально массив 4 на 4.
 
-
-// int[,] GetArray(int size)
-// {
-//     int[,] result = new int[size, size];
-//     int i = 0;
-//     int j = 0;
-//     int rowE = size - 1;
-//     int columnE = size - 1;
-//     int rowS = 0;
-//     int columnS = 0;
-//     bool left = true;
-//     bool top = true;
-//     int count = 0;
-//     while (count < size * size)
-//     {
-//         count++;
-//         result[i, j] = count;
-//         if (left && top)
-//         {
-//             rowS++;
-//             top = true;
-//             left = false;
-//             i++;
-//             continue;
-//         }
-//         else
-//         {
-//             j++;
-//             continue;
-//         }
-        
-//     }
-// }
-
-// void ShowArray(int[,] array)
-// {
-
-//     for (int i = 0; i < array.GetLength(0); i++)
-//     {
-//         for (int j = 0; j < array.GetLength(1); j++)
-//         {
-//             Console.Write(array[i, j] + " ");
-//         }
-//         Console.WriteLine();
-//     }
-
-// }
-
-// Console.Write("Enter matrix size  ");
-// int s = int.Parse(Console.ReadLine());
-// int[,] arr = GetArray(s);
-// ShowArray(arr);
-
-
 namespace ConsoleApplication1
 {
     class Program
